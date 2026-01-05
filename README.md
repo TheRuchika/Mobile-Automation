@@ -1,4 +1,4 @@
-# Akesa Health Automation Project
+# Mobile Automation Project
 
 Automates testing for the **Akesa Health mobile app** using **WebdriverIO + Appium** with **TypeScript**, **Mocha**, and **Allure reporting**.
 
@@ -24,8 +24,8 @@ Automates testing for the **Akesa Health mobile app** using **WebdriverIO + Appi
 ## ⚙️ Setup
 
 ```bash
-git clone https://github.com/codicetech/akesa-mobile-automation
-cd akesa-health-automation
+git clone https://github.com//Theruchika/mobile-automation
+cd mobile-automation
 npm install
 ```
 
